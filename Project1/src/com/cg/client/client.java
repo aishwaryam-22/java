@@ -29,9 +29,9 @@ public class client {
 		System.out.println("updated");
 		
 		//delete
-		student=service.getStudentById(300);
-		service.removeStudent(student);
-		System.out.println("the data is removed");
+		//student=service.getStudentById(300);
+		//service.removeStudent(student);
+		//System.out.println("the data is removed");
 		
 		
 	}
